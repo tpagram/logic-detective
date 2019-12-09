@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/logic-detective/static/css/main.d1b05096.chunk.css",
+    "main.js": "/logic-detective/static/js/main.1d8c024f.chunk.js",
+    "main.js.map": "/logic-detective/static/js/main.1d8c024f.chunk.js.map",
+    "runtime-main.js": "/logic-detective/static/js/runtime-main.958dd90d.js",
+    "runtime-main.js.map": "/logic-detective/static/js/runtime-main.958dd90d.js.map",
+    "static/js/2.f70a23bd.chunk.js": "/logic-detective/static/js/2.f70a23bd.chunk.js",
+    "static/js/2.f70a23bd.chunk.js.map": "/logic-detective/static/js/2.f70a23bd.chunk.js.map",
+    "index.html": "/logic-detective/index.html",
+    "precache-manifest.af3274be55fabf11d03a2510cc3496d3.js": "/logic-detective/precache-manifest.af3274be55fabf11d03a2510cc3496d3.js",
+    "service-worker.js": "/logic-detective/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/logic-detective/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f70a23bd.chunk.js.LICENSE": "/logic-detective/static/js/2.f70a23bd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958dd90d.js",
+    "static/js/2.f70a23bd.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1d8c024f.chunk.js"
+  ]
+}
